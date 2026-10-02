@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="12dp"
+    android:background="#FFFFFFFF">
+    <TextView android:id="@+id/widget_title" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Solis PV" android:textSize="16sp" android:textStyle="bold" />
+    <TextView android:id="@+id/widget_status" android:layout_width="match_parent" android:layout_height="wrap_content" android:textSize="11sp" />
+    <TextView android:id="@+id/widget_pv" android:layout_width="match_parent" android:layout_height="wrap_content" android:textSize="18sp" />
+    <TextView android:id="@+id/widget_home" android:layout_width="match_parent" android:layout_height="wrap_content" android:textSize="14sp" />
+    <TextView android:id="@+id/widget_battery" android:layout_width="match_parent" android:layout_height="wrap_content" android:textSize="14sp" />
+    <TextView android:id="@+id/widget_grid" android:layout_width="match_parent" android:layout_height="wrap_content" android:textSize="14sp" />
+    <TextView android:id="@+id/widget_supply" android:layout_width="match_parent" android:layout_height="wrap_content" android:textSize="14sp" />
+    <TextView android:id="@+id/widget_today" android:layout_width="match_parent" android:layout_height="wrap_content" android:textSize="12sp" />
+</LinearLayout>

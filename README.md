@@ -1,6 +1,3 @@
-[README.md](https://github.com/user-attachments/files/32956622/README.md)
-# raabi82-SolisWidget-Projekt-v8
-raabi82/SolisWidget-Projekt-v8
 # SolisWidget
 
 Native Android app (Android 8 / API 26+) that reads live data from the SolisCloud Monitoring API and displays it in a Jetpack Glance home-screen widget.
